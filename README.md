@@ -31,13 +31,6 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Pazwork&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
 
 ----
 
