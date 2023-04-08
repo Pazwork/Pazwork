@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/danielgpaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/danielgpaz" height="30" width="40" /></a>
  
- [![linkedin](https://socialize-md.vercel.app/api/badge/twitter)](https://www.linkedin.com/in/danielgpaz)
+ [![linkedin](https://socialize-md.vercel.app/api/badge/linkedin)](https://www.linkedin.com/in/danielgpaz)
  
 </p>
 
