@@ -20,6 +20,8 @@
  <a href="https://www.linkedin.com/in/danielgpaz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
+<hr>
+
 <h3 align="left">Languages and Tools:</h3>
 
  <p><img align="center" alt="daniel-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
