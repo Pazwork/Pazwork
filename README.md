@@ -9,9 +9,7 @@
 
 <br>
 
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=Pazwork&show_icons=true&theme=dark)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pazwork&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 
