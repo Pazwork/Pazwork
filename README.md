@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
  <a href="https://www.linkedin.com/in/danielgpaz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://twitter.com/DanielPaz_Dev" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
+ <a href="https://x.com/DanielPaz_Dev" target="_blank"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" target="_blank"></a>
 </p>
 
 <hr>
